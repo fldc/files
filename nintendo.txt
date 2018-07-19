@@ -1,0 +1,81 @@
+### UPDATES ###
+# Check for System Updates
+127.0.0.1	sun.hac.lp1.d4c.nintendo.net
+# Check for Updates and Check Required System Update; Needed to GameUpdates
+#127.0.0.1	aqua.hac.lp1.d4c.nintendo.net
+# Check for Updates and Get TitleInfo; Needed to GameUpdates
+#127.0.0.1	superfly.hac.lp1.d4c.nintendo.net
+# CDN-Download for System Apps
+127.0.0.1	atumn.hac.lp1.d4c.nintendo.net
+# CDN-Download for Games/Updates; Needed to GameUpdates
+#127.0.0.1	atum.hac.lp1.d4c.nintendo.net
+# VersionList for Games
+127.0.0.1	tagaya.hac.lp1.eshop.nintendo.net
+# Sugar and Civil?
+127.0.0.1	pearljam.hac.lp1.eshop.nintendo.net
+
+### Connection Test ###
+# Need Unblocked to Let Connection to Internet
+127.0.0.1	ctest.cdn.nintendo.net
+127.0.0.1	ctest-dl-lp1.cdn.nintendo.net
+127.0.0.1	nasc.nintendowifi.net
+
+### Game Checks CERT, Gold, etc... ###
+# Checks the Game CERT, RetrieveGold Feature, Link Device and VirtualAccount?
+127.0.0.1	beach.hac.lp1.eshop.nintendo.net
+
+### Account ###
+# Access to Account and eShop
+127.0.0.1	accounts.nintendo.com
+# Account Metadata (Needed to Play Online)
+127.0.0.1	api.accounts.nintendo.com
+# Account Metadata, Blocked Friends, View and Add Friends (Needed to Play Online)
+127.0.0.1	e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
+
+### Services ###
+# App Authentication; Generates the App Key (Needed to Play Online) 
+127.0.0.1	aauth-lp1.ndas.srv.nintendo.net
+# Device Authentication; Generates the Device Key (Needed to Play Online)
+127.0.0.1	dauth-lp1.ndas.srv.nintendo.net
+# Get App Data / Add Friends API
+127.0.0.1	api.accounts.nintendo.com
+# Dunno
+127.0.0.1	broker.lp1.npns.srv.nintendo.net
+# eShop
+127.0.0.1	consumer.lp1.npns.srv.nintendo.net
+# Facebook image posting
+127.0.0.1	web-lp1.share.srv.nintendo.net
+# Social Network Share
+127.0.0.1	assets-lp1.share.srv.nintendo.net
+# Log Server
+127.0.0.1	receive-lp1.dg.srv.nintendo.net
+127.0.0.1	receive-lp1.er.srv.nintendo.net
+# ?
+127.0.0.1	app-a04.lp1.npns.srv.nintendo.net
+
+### eShop ###
+# Access to eShop
+127.0.0.1	bugyo.hac.lp1.eshop.nintendo.net
+# Access to eShop and GetTickets/AccountStatus
+127.0.0.1	ecs-lp1.hac.shop.nintendo.net
+# Download Games/App from eShop
+127.0.0.1	pushmo.hac.lp1.eshop.nintendo.net
+# Reg-Challenge-Unreg-RegInfo-TicketSync-AccountTransfer-SyncReg
+127.0.0.1	ias-lp1.hac.shop.nintendo.net
+
+### News and Content ###
+# News&Content Topics
+127.0.0.1	bcat-topics-lp1.cdn.nintendo.net
+127.0.0.1	bcat-data-lp1.cdn.nintendo.net
+# News&Content List
+127.0.0.1	bcat-list-lp1.cdn.nintendo.net
+# Disgaea 5?
+127.0.0.1	g2785c501-lp1.s.n.srv.nintendo.net
+# ?
+127.0.0.1	service-status-lp1.cdn.nintendo.net
+
+### Game ###
+# Snake Pass
+127.0.0.1	snake.sumo-services.co.uk
+# Disgaea 5
+127.0.0.1	ngs-2785c5-live.s3.amazonaws.com
